@@ -2,6 +2,10 @@
 
 This is a simple project created with the aim of practicing and deepening knowledge in using the [Jest Framework](https://jestjs.io/), focused on implementing unit tests in JavaScript. Furthermore, an HTML web interface was developed to facilitate visualization of the application execution.
 
+## Application description
+
+The application was created with the aim of providing a web interface that allows the user to enter data into an input field and view the results in an output field (1 input and 1 output, specifically). The input must be entered in the format “pesoKG nome do item” and supports multiple lines, without differentiation between upper and lower case letters. After entering the data, the system distributes the weight between four different vehicles, optimizing efficiency and distribution. Additionally, extra information is displayed in the output field.
+
 ## Index
 
 1. [Steps for installing Jest on a new project](#1-steps-for-installing-jest-on-a-new-project)
