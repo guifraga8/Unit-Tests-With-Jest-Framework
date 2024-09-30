@@ -4,9 +4,9 @@ This is a simple project created with the aim of practicing and deepening knowle
 
 ## Index
 
-1. [Steps for installing Jest](#steps-for-installing-jest)
-2. [Executing Unit Tests with Jest](#executing-unit-tests-with-jest)
-3. [Contribution](#contribution)
+1. [Steps for installing Jest](#1-steps-for-installing-jest)
+2. [Executing Unit Tests with Jest](#2-executing-unit-tests-with-jest)
+3. [Contribution](#3-contribution)
 
 ### 1. Steps for installing Jest
 
