@@ -1,6 +1,6 @@
 # Unit-Tests-With-Jest-Framework
 
-This is a simple project created with the aim of practicing and deepening knowledge in using the [Jest framework](https://jestjs.io/), focused on implementing unit tests in JavaScript. Furthermore, an HTML web interface was developed to facilitate visualization of the application execution.
+This is a simple project created with the aim of practicing and deepening knowledge in using the [Jest Framework](https://jestjs.io/), focused on implementing unit tests in JavaScript. Furthermore, an HTML web interface was developed to facilitate visualization of the application execution.
 
 ## Index
 
