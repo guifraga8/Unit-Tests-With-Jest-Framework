@@ -1,6 +1,6 @@
 # Unit-Tests-With-Jest-Framework
 
-This is a simple project created with the aim of practicing and deepening knowledge in using the Jest framework, focused on implementing unit tests in JavaScript. Furthermore, an HTML web interface was developed to facilitate visualization of the application execution.
+This is a simple project created with the aim of practicing and deepening knowledge in using the [Jest framework](https://jestjs.io/), focused on implementing unit tests in JavaScript. Furthermore, an HTML web interface was developed to facilitate visualization of the application execution.
 
 ## Index
 
@@ -8,7 +8,7 @@ This is a simple project created with the aim of practicing and deepening knowle
 2. [Executing Unit Tests with Jest](#executing-unit-tests-with-jest)
 3. [Contribution](#contribution)
 
-### Steps for installing Jest
+### 1. Steps for installing Jest
 
 #### macOS
 
@@ -42,7 +42,7 @@ If you don't have Node.js installed, please download and install [Node.js](https
 
 `npm install --save-dev jest`
 
-### Executing Unit Tests with Jest
+### 2. Executing Unit Tests with Jest
 
 #### macOS and Windows
 
@@ -66,7 +66,7 @@ This command will run Jest and start all unit tests configured in the project.
 
 This command runs the tests and generates a coverage report, showing which parts of your code are being tested and which are not. The report will be displayed in the terminal and an HTML file will be generated in the coverage folder, allowing you to view coverage in a browser.
 
-### Contribution
+### 3. Contribution
 
 If you want to contribute to this project, with your knowledge or experience, feel free to follow the steps below.
 
