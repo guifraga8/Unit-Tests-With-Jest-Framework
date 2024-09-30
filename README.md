@@ -4,11 +4,12 @@ This is a simple project created with the aim of practicing and deepening knowle
 
 ## Index
 
-1. [Steps for installing Jest](#1-steps-for-installing-jest)
-2. [Executing Unit Tests with Jest](#2-executing-unit-tests-with-jest)
-3. [Contribution](#3-contribution)
+1. [Steps for installing Jest on a new project](#1-steps-for-installing-jest-on-a-new-project)
+2. [Install this project dependencies to execute Unit Tests with Jest](#2-install-this-project-dependencies-to-execute-unit-tests-with-jest)
+3. [Executing Unit Tests with Jest](#2-executing-unit-tests-with-jest)
+4. [Contribution](#3-contribution)
 
-### 1. Steps for installing Jest
+### 1. Steps for installing Jest on a new project
 
 #### macOS
 
@@ -42,7 +43,29 @@ If you don't have Node.js installed, please download and install [Node.js](https
 
 `npm install --save-dev jest`
 
-### 2. Executing Unit Tests with Jest
+### 2. Install this project dependencies to execute Unit Tests with Jest
+
+### macOS
+
+1. Open the terminal and navigate to your project directory:
+
+`cd /path/to/your/project`
+
+2. Install the project dependencies listed in the `package.json` file:
+
+`npm install` or `npm i`
+
+### Windows
+
+1. Open the command prompt (or PowerShell) and navigate to your project directory:
+
+`cd C:\path\to\your\project`
+
+2. Install the project dependencies listed in the `package.json` file:
+
+`npm install` or `npm i`
+
+### 3. Executing Unit Tests with Jest
 
 #### macOS and Windows
 
@@ -66,7 +89,7 @@ This command will run Jest and start all unit tests configured in the project.
 
 This command runs the tests and generates a coverage report, showing which parts of your code are being tested and which are not. The report will be displayed in the terminal and an HTML file will be generated in the coverage folder, allowing you to view coverage in a browser.
 
-### 3. Contribution
+### 4. Contribution
 
 If you want to contribute to this project, with your knowledge or experience, feel free to follow the steps below.
 
