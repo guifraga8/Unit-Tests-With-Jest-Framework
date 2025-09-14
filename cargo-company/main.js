@@ -21,7 +21,7 @@ function controller() {
 }
 
 function showResult() {
-    let finalResult = "Resultado: \n";
+    let finalResult = "";
     const vehiclesWithItems = vehiclesMock.filter(vehicle => vehicle.vehicles.length > 0);
 
     let totalCapacity = 0;
@@ -59,7 +59,7 @@ function toStringVehicleType(vehicle) {
 }
 
 function toString(item) {
-    return `${item.weight}Kg ${item.description}\n`;
+    return `${item.weight}kg ${item.description}\n`;
 }
 
 function getData() {
